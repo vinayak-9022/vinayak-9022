@@ -1,24 +1,108 @@
-<h1 align="center">Hi 👋, I'm Vinayak Solanki</h1>
-<h3 align="center">A passionate Problem Solver from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak-9022&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak-9022" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayak-9022" alt="vinayak-9022" /></a> </p>
-
-- 📫 How to reach me **solankivinayak912@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vinayak solanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayak solanki" height="30" width="40" /></a>
-<a href="https://instagram.com/vinayak_9022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinayak_9022" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/solanki_vinayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="solanki_vinayak" height="30" width="40" /></a>
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;AI+Enthusiast;Building+Scalable+Systems&center=true&width=500&height=50">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Vinayak Solanki</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayak-9022&show_icons=true&locale=en&layout=compact" alt="vinayak-9022" /></p>
+<p align="center">
+🚀 Backend Developer | 🤖 AI Enthusiast  
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayak-9022&show_icons=true&locale=en" alt="vinayak-9022" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak-9022&" alt="vinayak-9022" /></p>
+## 🚀 About Me  
+
+- 🎓 B.Tech CSE (2023–2027), GLA University  
+- 💻 Backend-focused developer  
+- 🧠 Interested in scalable systems & AI automation  
+- ⚡ Strong in REST APIs, async workflows & system design basics  
+- 🌍 Goal: Build impactful real-world software  
+
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,nodejs,express,mongodb,mysql,git" />
+</p>
+
+---
+
+## 🚀 Projects  
+
+### ⚡ BLitza – AI Research Assistant  
+👉 AI-powered research agent for business professionals  
+
+- Automated **data collection & processing** using REST APIs  
+- Integrated **Serper API & Google Gemini API**  
+- Processed responses using **JSON parsing**  
+- Generated structured insights from raw data  
+- Reduced manual research effort through automation  
+
+---
+
+### 🔐 SmartFilter.AI – Email Phishing Detection  
+👉 Full-stack phishing detection web application  
+
+- Built a **web app + browser extension**  
+- Implemented backend for **real-time phishing analysis**  
+- Integrated APIs for detection pipeline  
+- Reduced manual email review effort by **~40%**  
+
+---
+
+### 🔄 Request Context Propagation System  
+👉 Backend system for tracking requests across async services  
+
+- Created **Express middleware** to generate unique request context (ID-based)  
+- Implemented **context propagation across async call chains in Node.js**  
+- Indexed logs in **MongoDB using request ID for fast correlation**  
+- Used **shell scripts** to correlate logs across multiple services  
+- Leveraged **Git for tracking context schema changes**  
+- Used **Unix environment variables** to propagate context into child processes  
+- Implemented **weak references for automatic memory cleanup after request completion**  
+
+#### 🔥 Unique Highlights  
+- Context-aware debugging across services  
+- Async-safe request tracing system  
+- Lightweight alternative to distributed tracing tools  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements  
+
+- 🥇 4th Rank – University Hackathon (SmartFilter.AI)  
+- 🥈 6th Rank – Codefest 2.0 (DU Delhi)  
+- 🏅 Top 10 (147 teams) – National Hackathon (BLitza)  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+<a href="https://github.com/yourusername"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://linkedin.com/in/vinayak-solanki-339346300"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:solankivinayak912@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+## ⚡ Fun Fact  
+
+💡 I enjoy building backend systems that simplify complex workflows 🚀  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" />
+</p>
