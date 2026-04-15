@@ -68,16 +68,6 @@
 - Async-safe request tracing system  
 - Lightweight alternative to distributed tracing tools  
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight" />
-</p>
-
----
 
 ## 🏆 Achievements  
 
