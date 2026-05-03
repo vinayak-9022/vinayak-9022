@@ -80,7 +80,7 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-<a href="https://github.com/yourusername"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://github.com/vinayak-9022"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="https://linkedin.com/in/vinayak-solanki-339346300"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:solankivinayak912@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
